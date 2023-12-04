@@ -1,9 +1,15 @@
 body {
-    background-color: #c6c6c6;
+  background-color: #c6c6c6;
 }
 
-h1 {}
+h1 {
+  color: black;
+}
 
-h2 {}
+h2 {
+  color: Blue;
+}
 
-p {}
+p {
+  color: black;
+}
