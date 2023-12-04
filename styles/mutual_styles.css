@@ -3,10 +3,22 @@ body {
 }
 
 h1 {
+<<<<<<< HEAD
 }
 
 h2 {
 }
 
 p {
+=======
+  color: black;
+}
+
+h2 {
+  color: Blue;
+}
+
+p {
+  color: black;
+>>>>>>> b042c9b6fdbdcf946a1e54bd1a3307ade3488468
 }
